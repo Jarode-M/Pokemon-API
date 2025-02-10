@@ -100,7 +100,7 @@ function showDetails(pokedex_id) {
                             </ul>
                             <p class="text-sm text-gray-700 mt-2"><strong>Talents:</strong></p>
                             <div class="grid grid-cols-2 row-span-3 gap-8">
-                                <ul class="list-disc pl-5 columns-2">
+                                <ul class="list-disc pl-5">
                                     ${data.talents.map(talent => `<li>${talent.name}</li>`).join('')}
                                 </ul>
                             </div>
