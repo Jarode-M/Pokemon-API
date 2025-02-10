@@ -6,7 +6,7 @@ Première-API est un projet d'API simple conçu pour démontrer les fonctionnali
 ## Installation
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/JarodeM/First-API.git
+    git clone https://github.com/JarodeM/Pokemon-API.git
     ```
 2. Accédez au répertoire du projet :
     ```bash
